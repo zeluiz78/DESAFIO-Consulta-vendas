@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DESAFIO Consulta vendas.iml" filepath="$PROJECT_DIR$/.idea/DESAFIO Consulta vendas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-consulta-vendas/dsmeta.iml" filepath="$PROJECT_DIR$/desafio-consulta-vendas/dsmeta.iml" />
+    </modules>
+  </component>
+</project>
